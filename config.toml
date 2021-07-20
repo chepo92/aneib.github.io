@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "https://iibmers.org/"
+baseURL = "https://carolusvitalis.github.io/aneib.github.io"
 title = "IIBMers"
 theme = "airspace-hugo"
 # Number of posts per page in list view
