@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/us.jpeg"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "We strive to be the best and <br> make awesome work in biotechnology."
   content : "Our mission is to promote interdisciplinary work by generating a student community, creating instances of networking with students and professors from different faculties and from external institutions such as colleges and other universities.<br>
   <br>
   Our vision is to to be a world-class interdisciplinary student organization, both in teaching and research.<br>
